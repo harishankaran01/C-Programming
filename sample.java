@@ -5,7 +5,7 @@ public class Solution
    System.out.println("This place is under new management");
    for(int i=0;i<=9;i++)
      {
-       System.out.print(i);
+       System.out.print(i+1);
      }
 }
 }
